@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HeartMe</string>
+    <string name="submit">Submit</string>
+    <string name="search_hint">Type blood test name...</string>
+    <string name="value_hint">Type blood test result value</string>
+    <string name="Welcome">Hello and welcome to HeartMe</string>
+    <string name="on_boarding_msg">Please enter blood test name and value at the corresponding text fields</string>
+    <string name="offline_msg_title">Oops, You are offline.</string>
+    <string name="offline_msg_hint">Please check your internet connection and try again.</string>
+    <string name="test_evaluation_success">%1$s  For %2$s</string>
+    <string name="test_evaluation_fail">%1$s Test name, please check your input and try again.</string>
+
+</resources>
